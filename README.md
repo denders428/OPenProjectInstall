@@ -1,2 +1,2 @@
-# pPenProjectInstall
+# OpenProjectInstall
 Open Project Installation 
